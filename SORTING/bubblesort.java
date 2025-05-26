@@ -10,7 +10,7 @@ public static void main(String[] args) {
 
     for(int i : arr){
 
-        System.out.print(arr);
+        System.out.print(i+" ");
     }
 }
 
